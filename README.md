@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Akshat Daga (He/Him) and I'm a student, a current sophomore, at University of Illinois Urbana-Champaign (UIUC). I am majoring in Information Science and minoring in Computer Science along with getting a data science certificate. My personal email is aki.daga@gmail.com.
 
 <!--
 **Akidaga/Akidaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
